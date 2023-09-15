@@ -69,10 +69,12 @@ FULL ADDER:
 
 ### TIMING DIAGRAM
 HALF ADDER:
-![image](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/704ef38c-579f-4d06-b901-1d8e1422fe95)
+![image](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/5c7cfdec-d00e-4c04-b897-339c5ab0bcbc)
+
 
 FUL ADDER:
-![image](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/47a67d37-1ae2-4b12-b4f1-b9317247da3d)
+![image](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/eed0a60f-325f-4555-b838-16a1e59917f9)
+
 
 
 ### TRUTH TABLE 
