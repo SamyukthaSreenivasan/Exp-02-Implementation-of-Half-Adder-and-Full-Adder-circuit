@@ -60,28 +60,34 @@ endmodule
 ```
 ### Output:
 ### RTL:
+
 HALF ADDER:
+
 ![WhatsApp Image 2023-09-01 at 08 54 34](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/a2513833-ef7e-4341-9ce5-9cfc8affac4f)
 
 FULL ADDER:
+
 ![image](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/baa49550-bd95-42f3-ab2c-0fed4ff5123f)
 
 
 ### TIMING DIAGRAM
+
 HALF ADDER:
+
 ![image](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/5c7cfdec-d00e-4c04-b897-339c5ab0bcbc)
 
 
 FUL ADDER:
+
 ![image](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/eed0a60f-325f-4555-b838-16a1e59917f9)
-
-
 
 ### TRUTH TABLE 
 HALF ADDER:
+
 ![image](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/e40f17bc-1020-4067-b374-ef453392af34)
 
 FULL ADDER:
+
 ![image](https://github.com/SamyukthaSreenivasan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475703/1ecaa9c5-f019-49a0-84ac-faa1982e58fb)
 
 ### Result:
